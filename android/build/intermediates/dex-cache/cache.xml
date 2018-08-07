@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/ferdicus/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_fe8f74584ed1818253e2fe9aa7e2fd4b9adeced9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ferdicus/.android/build-cache/78f01c1900fe88441c5f98c67a42d754b242485d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
+        <dex dex="/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_a8d176bdb9d3469bbd48d259cf8116e5c6e3ea19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ferdicus/.android/build-cache/13d61b2f7b9fe86ce85341c970e1cef702f19281/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="c6b99ac40b67bab04226da6e54e718bfcef2c66a">
+        <dex dex="/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_5d2d1ff4f85ff30eb1e8433858a1f8b0f9ed98f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ferdicus/.android/build-cache/6193fec832403ed8df9c65f97afcf635b670a929/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_94f217de2fec32e2683ccf6bbe145d22999ddf9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ferdicus/.android/build-cache/bbbde174b88c1beddc895608d4ade4ea4c5c88b1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
+        <dex dex="/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_2fa66e0d4735f85f69f52f5e55cfdcf74105e413.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ferdicus/.android/build-cache/3536e65780014ada1c03389afae06ec650e08aec/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_900d2134d9dee6039c058802fc2a98c5b62f3a38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ferdicus/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_ec65188a7bca4baa9adb24e9f24f72fcc45e1178.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ferdicus/.android/build-cache/e3b2dd64dcae30b1b9718960e00ee710128b7f4e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_c5d535f48fbc9db8fad4630302349f558f4753a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ferdicus/.android/build-cache/1242466af3c2afc84bbc4a2c65f9b934782b9b9d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_a26cc7231c585d822cd8b3a2445a26a5a7a18333.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ferdicus/.android/build-cache/a822f3a99497caf5131566c51798cc4680df9e80/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
+        <dex dex="/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_167cfc67cf2d5840c2820bc77f5d2a58e1cc4926.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ferdicus/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/okhttp-3.10.0_4801bf4c3328cd58723ea1bb73e3be413de466c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ferdicus/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_9fe173e6df50c5f4c3cacc24d5714ad80667144e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ferdicus/.android/build-cache/876269efc774c2afaa9b384e859f84859593b94a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
+        <dex dex="/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_6092db33d5af3c6444d8a6cbc487debead38cce0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ferdicus/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_3e620eee420388f6cf16001e218a713eefc44229.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ferdicus/Development/appcenter/AwesomeProject/node_modules/appcenter-crashes/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ec6ace153f25646fdb8de3e8289b610ed9946579">
+        <dex dex="/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_47c5aab2fe62b3584782e6abcacd3532641a0d5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ferdicus/.android/build-cache/4440c8cb9767f03f8834c529aeec1ddd7b4a94c8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
+        <dex dex="/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_921f33354e02a5edefb7b4f953a29fda0dac670b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ferdicus/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_1b7bd51073fa26dff289ad54dba9b72f522698dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ferdicus/.android/build-cache/94ef6e9e1c538f6aade6cc0d1567171e1aa68715/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_93e6755c0235ec5e74d6eba1d301e4026de24415.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ferdicus/.android/build-cache/34226f5c3beed3a62efb900e3806f3ccc75aa02d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_d8b4d2f5e05a543878949f725d1e7c6add4825b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ferdicus/.android/build-cache/cf5e152386bbb9241ce753fcb704788ef38839cb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_0a66000d5b7e139cc0c7c3d4c53180473afa3673.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ferdicus/Development/appcenter/AwesomeProject/node_modules/appcenter-analytics/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e698ad7bfc854308e173d864c2a2e8972099bd99">
+        <dex dex="/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_a557164826865dd828b5029e2efac9f06bbb6a5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ferdicus/.android/build-cache/014028f495464f3583b51ca0a77d61433459c577/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_74eb1ad25ddd8bf896ff5157359181c145ad5ac4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ferdicus/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_0c3432b0f07c0a6f1c1c95276d635e74b9eb7ab9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ferdicus/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.10.0/ec614c05825ddd2267677a99f585d3913474b125/okhttp-urlconnection-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ec614c05825ddd2267677a99f585d3913474b125">
+        <dex dex="/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.10.0_fbadb1e6619fa0dc9747252f4d17baa87cbead92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ferdicus/.android/build-cache/c5f5fcdc19c02906f466c1bc13c3e02447ecd900/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_e0014f62c912647796c39c167f186980dd0f879e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ferdicus/.android/build-cache/39fcf96e83c549f70faa3f226d281b89d101a4eb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_926230c48c7005d4c6a796e8c692091e9dbd2309.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ferdicus/.android/build-cache/25ba98d17ad6ce8f957b476cb9ce42908e9e41ae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7ced32019c1e97efb2619fd174380829295c009c">
+        <dex dex="/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_0f9c5548fce5a1850b5be8bb56c4a3368853fdb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ferdicus/.android/build-cache/3c8568dd45f47fc84a3e9d3048b7d9940bf6ccc9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ace736ec74667dceb5bf09078e94c5f4ec9ca136">
+        <dex dex="/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_2d4adb44c3d2e1f2f8704fcdf4cb0dbee550026b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ferdicus/.android/build-cache/a556dfca1f5ec9b47145a8a266daf4e349ac81e3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
+        <dex dex="/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_b121f46b7a3c35e71007be5c590d926a75e81d0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ferdicus/.android/build-cache/014028f495464f3583b51ca0a77d61433459c577/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_f619549696e22375ef994cfd66e60200765e9cb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ferdicus/.android/build-cache/4a1746463e428cda5653d0f27e2dfb8238154331/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_5066e771dabecae3f40943d81431f8d7d0a7d0c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ferdicus/Development/appcenter/AwesomeProject/node_modules/appcenter/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e0a5652f917d56d9aca57465ff3c68c338cf0d5f">
+        <dex dex="/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_6f2736f3f294e972fc7b4e648e237bc4ea0765b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ferdicus/.android/build-cache/995dc99a1c4015a933d3c39e921ff92d6bc7ebd2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b7321ef6c33b9f4e4bab89c64a648d063a48e95b">
+        <dex dex="/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_c33588e77d8f027d41403aef6a9dc2fb3b70705c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ferdicus/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/okio-1.14.0_39b18f0289f91a6e29de439c68a4ef85ce2a86db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ferdicus/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_b11b812ecb022a6bb91a4215a4ec1c0e2a2c0284.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ferdicus/.android/build-cache/5494269bb0b5b3876a0a0363282954cb6ddefca8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="dc6c0959ecc7b21932675183573b2bcecf2687b9">
+        <dex dex="/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_5fbf01d6558d865c139588125f6bb91eebadaebf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ferdicus/.android/build-cache/f0ddb981be4e2f807e9077b1feae3257f5c28786/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_08ae27607895fcfae706b3e019040fce32948cfe.jar" />
+    </item>
+
+</items>
