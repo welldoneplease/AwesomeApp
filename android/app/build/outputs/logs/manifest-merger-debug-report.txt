@@ -15,6 +15,10 @@ ADDED from /Users/ferdicus/Development/appcenter/AwesomeProject/android/app/src/
 		INJECTED from /Users/ferdicus/Development/appcenter/AwesomeProject/android/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
 ADDED from /Users/ferdicus/Development/appcenter/AwesomeProject/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/ferdicus/.android/build-cache/b04d54971cdadc56f2c8df0f66b39dcfb15d4903/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /Users/ferdicus/.android/build-cache/cc126058c36ee1b445553fbaccfcee249e14686c/output/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/ferdicus/.android/build-cache/260ebc8c2bf6a6cff29d052200588debf9dcdb25/output/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/ferdicus/.android/build-cache/fe4a49a258fc93bc3a3fea4a812532e77ef3c414/output/AndroidManifest.xml:23:5-67
 MERGED from [com.microsoft.appcenter:appcenter:1.7.0] /Users/ferdicus/.android/build-cache/995dc99a1c4015a933d3c39e921ff92d6bc7ebd2/output/AndroidManifest.xml:11:5-67
 	android:name
 		ADDED from /Users/ferdicus/Development/appcenter/AwesomeProject/android/app/src/main/AndroidManifest.xml:4:22-64
@@ -25,6 +29,22 @@ MERGED from [com.facebook.react:react-native:0.56.0] /Users/ferdicus/.android/bu
 		ADDED from /Users/ferdicus/Development/appcenter/AwesomeProject/android/app/src/main/AndroidManifest.xml:5:22-75
 application
 ADDED from /Users/ferdicus/Development/appcenter/AwesomeProject/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.microsoft.appcenter:appcenter-push:1.7.0] /Users/ferdicus/.android/build-cache/e282dbb51d9f477405f7f13995dd8ff04ad2aa1e/output/AndroidManifest.xml:12:5-31:19
+MERGED from [com.google.firebase:firebase-core:16.0.1] /Users/ferdicus/.android/build-cache/f0cdf6192d51d72ab49b3a8406cc0fbde56b87a4/output/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/ferdicus/.android/build-cache/b04d54971cdadc56f2c8df0f66b39dcfb15d4903/output/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /Users/ferdicus/.android/build-cache/cc126058c36ee1b445553fbaccfcee249e14686c/output/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/ferdicus/.android/build-cache/260ebc8c2bf6a6cff29d052200588debf9dcdb25/output/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/ferdicus/.android/build-cache/a10c748e4fb70a0264694a8dee87f2ce23c62198/output/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] /Users/ferdicus/.android/build-cache/6a35ca9a11d69a2405adb7bb066f0b32c7f25f9f/output/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging:17.0.0] /Users/ferdicus/.android/build-cache/dddb750966a9aed39b6a3fba1032ef6d467ef542/output/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/ferdicus/.android/build-cache/fe4a49a258fc93bc3a3fea4a812532e77ef3c414/output/AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/ferdicus/.android/build-cache/5141d67cd6975bf90dcf31ddbad144ec55795b68/output/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-common:16.0.0] /Users/ferdicus/.android/build-cache/cc1c1b5b8221fe1eb4a88d151024b3d10f4b9062/output/AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /Users/ferdicus/.android/build-cache/febefe7d36fcd7f35b9512a1b0c8043fccb4ec33/output/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/ferdicus/.android/build-cache/b22b8ffa2b921c97e645bc14851af9b32900fcc0/output/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/ferdicus/.android/build-cache/f05a2c2f898965fa8936aad2a6ae7657adc1c403/output/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] /Users/ferdicus/.android/build-cache/1513d15bc7a66668304f4c3abfc038e8dfea4286/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/ferdicus/.android/build-cache/375915a1597a570b09da21e58801ed1f5f838894/output/AndroidManifest.xml:22:5-26:19
 MERGED from [com.facebook.react:react-native:0.56.0] /Users/ferdicus/.android/build-cache/014028f495464f3583b51ca0a77d61433459c577/output/AndroidManifest.xml:13:5-20
 MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/ferdicus/.android/build-cache/39fcf96e83c549f70faa3f226d281b89d101a4eb/output/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-v4:26.1.0] /Users/ferdicus/.android/build-cache/4a1746463e428cda5653d0f27e2dfb8238154331/output/AndroidManifest.xml:25:5-29:19
@@ -74,6 +94,23 @@ ADDED from /Users/ferdicus/Development/appcenter/AwesomeProject/android/app/src/
 		ADDED from /Users/ferdicus/Development/appcenter/AwesomeProject/android/app/src/main/AndroidManifest.xml:23:17-81
 uses-sdk
 INJECTED from /Users/ferdicus/Development/appcenter/AwesomeProject/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [AwesomeProject:appcenter-push:unspecified] /Users/ferdicus/Development/appcenter/AwesomeProject/node_modules/appcenter-push/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.appcenter:appcenter-push:1.7.0] /Users/ferdicus/.android/build-cache/e282dbb51d9f477405f7f13995dd8ff04ad2aa1e/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.firebase:firebase-core:16.0.1] /Users/ferdicus/.android/build-cache/f0cdf6192d51d72ab49b3a8406cc0fbde56b87a4/output/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/ferdicus/.android/build-cache/b04d54971cdadc56f2c8df0f66b39dcfb15d4903/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /Users/ferdicus/.android/build-cache/cc126058c36ee1b445553fbaccfcee249e14686c/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/ferdicus/.android/build-cache/260ebc8c2bf6a6cff29d052200588debf9dcdb25/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/ferdicus/.android/build-cache/a10c748e4fb70a0264694a8dee87f2ce23c62198/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] /Users/ferdicus/.android/build-cache/6a35ca9a11d69a2405adb7bb066f0b32c7f25f9f/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.0.0] /Users/ferdicus/.android/build-cache/dddb750966a9aed39b6a3fba1032ef6d467ef542/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/ferdicus/.android/build-cache/fe4a49a258fc93bc3a3fea4a812532e77ef3c414/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/ferdicus/.android/build-cache/5141d67cd6975bf90dcf31ddbad144ec55795b68/output/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.0] /Users/ferdicus/.android/build-cache/cc1c1b5b8221fe1eb4a88d151024b3d10f4b9062/output/AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /Users/ferdicus/.android/build-cache/febefe7d36fcd7f35b9512a1b0c8043fccb4ec33/output/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/ferdicus/.android/build-cache/b22b8ffa2b921c97e645bc14851af9b32900fcc0/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/ferdicus/.android/build-cache/f05a2c2f898965fa8936aad2a6ae7657adc1c403/output/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] /Users/ferdicus/.android/build-cache/1513d15bc7a66668304f4c3abfc038e8dfea4286/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/ferdicus/.android/build-cache/375915a1597a570b09da21e58801ed1f5f838894/output/AndroidManifest.xml:20:5-44
 MERGED from [AwesomeProject:appcenter-crashes:unspecified] /Users/ferdicus/Development/appcenter/AwesomeProject/node_modules/appcenter-crashes/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
 MERGED from [com.microsoft.appcenter:appcenter-crashes:1.7.0] /Users/ferdicus/.android/build-cache/13d61b2f7b9fe86ce85341c970e1cef702f19281/output/AndroidManifest.xml:7:5-9:41
 MERGED from [AwesomeProject:appcenter-analytics:unspecified] /Users/ferdicus/Development/appcenter/AwesomeProject/node_modules/appcenter-analytics/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
@@ -108,10 +145,186 @@ MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/ferdicus/.android/buil
 	android:minSdkVersion
 		INJECTED from /Users/ferdicus/Development/appcenter/AwesomeProject/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/ferdicus/Development/appcenter/AwesomeProject/android/app/src/main/AndroidManifest.xml
-uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.microsoft.appcenter:appcenter:1.7.0] /Users/ferdicus/.android/build-cache/995dc99a1c4015a933d3c39e921ff92d6bc7ebd2/output/AndroidManifest.xml:12:5-79
+receiver#com.microsoft.appcenter.push.PushReceiver
+ADDED from [com.microsoft.appcenter:appcenter-push:1.7.0] /Users/ferdicus/.android/build-cache/e282dbb51d9f477405f7f13995dd8ff04ad2aa1e/output/AndroidManifest.xml:13:9-22:20
+	android:permission
+		ADDED from [com.microsoft.appcenter:appcenter-push:1.7.0] /Users/ferdicus/.android/build-cache/e282dbb51d9f477405f7f13995dd8ff04ad2aa1e/output/AndroidManifest.xml:15:13-73
 	android:name
-		ADDED from [com.microsoft.appcenter:appcenter:1.7.0] /Users/ferdicus/.android/build-cache/995dc99a1c4015a933d3c39e921ff92d6bc7ebd2/output/AndroidManifest.xml:12:22-76
+		ADDED from [com.microsoft.appcenter:appcenter-push:1.7.0] /Users/ferdicus/.android/build-cache/e282dbb51d9f477405f7f13995dd8ff04ad2aa1e/output/AndroidManifest.xml:14:13-69
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.microsoft.appcenter:appcenter-push:1.7.0] /Users/ferdicus/.android/build-cache/e282dbb51d9f477405f7f13995dd8ff04ad2aa1e/output/AndroidManifest.xml:16:13-21:29
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.microsoft.appcenter:appcenter-push:1.7.0] /Users/ferdicus/.android/build-cache/e282dbb51d9f477405f7f13995dd8ff04ad2aa1e/output/AndroidManifest.xml:17:17-86
+	android:name
+		ADDED from [com.microsoft.appcenter:appcenter-push:1.7.0] /Users/ferdicus/.android/build-cache/e282dbb51d9f477405f7f13995dd8ff04ad2aa1e/output/AndroidManifest.xml:17:25-83
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.microsoft.appcenter:appcenter-push:1.7.0] /Users/ferdicus/.android/build-cache/e282dbb51d9f477405f7f13995dd8ff04ad2aa1e/output/AndroidManifest.xml:18:17-81
+	android:name
+		ADDED from [com.microsoft.appcenter:appcenter-push:1.7.0] /Users/ferdicus/.android/build-cache/e282dbb51d9f477405f7f13995dd8ff04ad2aa1e/output/AndroidManifest.xml:18:25-78
+category#${applicationId}
+ADDED from [com.microsoft.appcenter:appcenter-push:1.7.0] /Users/ferdicus/.android/build-cache/e282dbb51d9f477405f7f13995dd8ff04ad2aa1e/output/AndroidManifest.xml:20:17-61
+	android:name
+		ADDED from [com.microsoft.appcenter:appcenter-push:1.7.0] /Users/ferdicus/.android/build-cache/e282dbb51d9f477405f7f13995dd8ff04ad2aa1e/output/AndroidManifest.xml:20:27-58
+service#com.microsoft.appcenter.push.TokenService
+ADDED from [com.microsoft.appcenter:appcenter-push:1.7.0] /Users/ferdicus/.android/build-cache/e282dbb51d9f477405f7f13995dd8ff04ad2aa1e/output/AndroidManifest.xml:24:9-30:19
+	tools:ignore
+		ADDED from [com.microsoft.appcenter:appcenter-push:1.7.0] /Users/ferdicus/.android/build-cache/e282dbb51d9f477405f7f13995dd8ff04ad2aa1e/output/AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [com.microsoft.appcenter:appcenter-push:1.7.0] /Users/ferdicus/.android/build-cache/e282dbb51d9f477405f7f13995dd8ff04ad2aa1e/output/AndroidManifest.xml:25:13-69
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.microsoft.appcenter:appcenter-push:1.7.0] /Users/ferdicus/.android/build-cache/e282dbb51d9f477405f7f13995dd8ff04ad2aa1e/output/AndroidManifest.xml:27:13-29:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.microsoft.appcenter:appcenter-push:1.7.0] /Users/ferdicus/.android/build-cache/e282dbb51d9f477405f7f13995dd8ff04ad2aa1e/output/AndroidManifest.xml:28:17-80
+	android:name
+		ADDED from [com.microsoft.appcenter:appcenter-push:1.7.0] /Users/ferdicus/.android/build-cache/e282dbb51d9f477405f7f13995dd8ff04ad2aa1e/output/AndroidManifest.xml:28:25-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/ferdicus/.android/build-cache/b04d54971cdadc56f2c8df0f66b39dcfb15d4903/output/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /Users/ferdicus/.android/build-cache/cc126058c36ee1b445553fbaccfcee249e14686c/output/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/ferdicus/.android/build-cache/260ebc8c2bf6a6cff29d052200588debf9dcdb25/output/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/ferdicus/.android/build-cache/fe4a49a258fc93bc3a3fea4a812532e77ef3c414/output/AndroidManifest.xml:22:5-79
+MERGED from [com.microsoft.appcenter:appcenter:1.7.0] /Users/ferdicus/.android/build-cache/995dc99a1c4015a933d3c39e921ff92d6bc7ebd2/output/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/ferdicus/.android/build-cache/b04d54971cdadc56f2c8df0f66b39dcfb15d4903/output/AndroidManifest.xml:23:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/ferdicus/.android/build-cache/b04d54971cdadc56f2c8df0f66b39dcfb15d4903/output/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /Users/ferdicus/.android/build-cache/cc126058c36ee1b445553fbaccfcee249e14686c/output/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/ferdicus/.android/build-cache/260ebc8c2bf6a6cff29d052200588debf9dcdb25/output/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/ferdicus/.android/build-cache/fe4a49a258fc93bc3a3fea4a812532e77ef3c414/output/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/ferdicus/.android/build-cache/b04d54971cdadc56f2c8df0f66b39dcfb15d4903/output/AndroidManifest.xml:24:22-65
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/ferdicus/.android/build-cache/b04d54971cdadc56f2c8df0f66b39dcfb15d4903/output/AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/ferdicus/.android/build-cache/fe4a49a258fc93bc3a3fea4a812532e77ef3c414/output/AndroidManifest.xml:35:9-39:19
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/ferdicus/.android/build-cache/b04d54971cdadc56f2c8df0f66b39dcfb15d4903/output/AndroidManifest.xml:27:18-89
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/ferdicus/.android/build-cache/b04d54971cdadc56f2c8df0f66b39dcfb15d4903/output/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/ferdicus/.android/build-cache/b04d54971cdadc56f2c8df0f66b39dcfb15d4903/output/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/ferdicus/.android/build-cache/b04d54971cdadc56f2c8df0f66b39dcfb15d4903/output/AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/ferdicus/.android/build-cache/cc126058c36ee1b445553fbaccfcee249e14686c/output/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/ferdicus/.android/build-cache/260ebc8c2bf6a6cff29d052200588debf9dcdb25/output/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/ferdicus/.android/build-cache/cc126058c36ee1b445553fbaccfcee249e14686c/output/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/ferdicus/.android/build-cache/cc126058c36ee1b445553fbaccfcee249e14686c/output/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/ferdicus/.android/build-cache/cc126058c36ee1b445553fbaccfcee249e14686c/output/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/ferdicus/.android/build-cache/cc126058c36ee1b445553fbaccfcee249e14686c/output/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/ferdicus/.android/build-cache/cc126058c36ee1b445553fbaccfcee249e14686c/output/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/ferdicus/.android/build-cache/cc126058c36ee1b445553fbaccfcee249e14686c/output/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/ferdicus/.android/build-cache/260ebc8c2bf6a6cff29d052200588debf9dcdb25/output/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/ferdicus/.android/build-cache/cc126058c36ee1b445553fbaccfcee249e14686c/output/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/ferdicus/.android/build-cache/cc126058c36ee1b445553fbaccfcee249e14686c/output/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/ferdicus/.android/build-cache/cc126058c36ee1b445553fbaccfcee249e14686c/output/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/ferdicus/.android/build-cache/cc126058c36ee1b445553fbaccfcee249e14686c/output/AndroidManifest.xml:35:13-100
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/ferdicus/.android/build-cache/cc126058c36ee1b445553fbaccfcee249e14686c/output/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/ferdicus/.android/build-cache/cc126058c36ee1b445553fbaccfcee249e14686c/output/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/ferdicus/.android/build-cache/cc126058c36ee1b445553fbaccfcee249e14686c/output/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/ferdicus/.android/build-cache/cc126058c36ee1b445553fbaccfcee249e14686c/output/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/ferdicus/.android/build-cache/cc126058c36ee1b445553fbaccfcee249e14686c/output/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/ferdicus/.android/build-cache/cc126058c36ee1b445553fbaccfcee249e14686c/output/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/ferdicus/.android/build-cache/cc126058c36ee1b445553fbaccfcee249e14686c/output/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/ferdicus/.android/build-cache/cc126058c36ee1b445553fbaccfcee249e14686c/output/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/ferdicus/.android/build-cache/cc126058c36ee1b445553fbaccfcee249e14686c/output/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/ferdicus/.android/build-cache/cc126058c36ee1b445553fbaccfcee249e14686c/output/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/ferdicus/.android/build-cache/cc126058c36ee1b445553fbaccfcee249e14686c/output/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/ferdicus/.android/build-cache/cc126058c36ee1b445553fbaccfcee249e14686c/output/AndroidManifest.xml:49:13-87
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:17.0.0] /Users/ferdicus/.android/build-cache/dddb750966a9aed39b6a3fba1032ef6d467ef542/output/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:17.0.0] /Users/ferdicus/.android/build-cache/dddb750966a9aed39b6a3fba1032ef6d467ef542/output/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:17.0.0] /Users/ferdicus/.android/build-cache/dddb750966a9aed39b6a3fba1032ef6d467ef542/output/AndroidManifest.xml:29:13-82
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:17.0.0] /Users/ferdicus/.android/build-cache/dddb750966a9aed39b6a3fba1032ef6d467ef542/output/AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:17.0.0] /Users/ferdicus/.android/build-cache/dddb750966a9aed39b6a3fba1032ef6d467ef542/output/AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:17.0.0] /Users/ferdicus/.android/build-cache/dddb750966a9aed39b6a3fba1032ef6d467ef542/output/AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:17.0.0] /Users/ferdicus/.android/build-cache/dddb750966a9aed39b6a3fba1032ef6d467ef542/output/AndroidManifest.xml:32:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/ferdicus/.android/build-cache/fe4a49a258fc93bc3a3fea4a812532e77ef3c414/output/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/ferdicus/.android/build-cache/fe4a49a258fc93bc3a3fea4a812532e77ef3c414/output/AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/ferdicus/.android/build-cache/fe4a49a258fc93bc3a3fea4a812532e77ef3c414/output/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/ferdicus/.android/build-cache/fe4a49a258fc93bc3a3fea4a812532e77ef3c414/output/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/ferdicus/.android/build-cache/fe4a49a258fc93bc3a3fea4a812532e77ef3c414/output/AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/ferdicus/.android/build-cache/fe4a49a258fc93bc3a3fea4a812532e77ef3c414/output/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/ferdicus/.android/build-cache/fe4a49a258fc93bc3a3fea4a812532e77ef3c414/output/AndroidManifest.xml:32:22-76
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/ferdicus/.android/build-cache/fe4a49a258fc93bc3a3fea4a812532e77ef3c414/output/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/ferdicus/.android/build-cache/fe4a49a258fc93bc3a3fea4a812532e77ef3c414/output/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/ferdicus/.android/build-cache/fe4a49a258fc93bc3a3fea4a812532e77ef3c414/output/AndroidManifest.xml:37:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/ferdicus/.android/build-cache/fe4a49a258fc93bc3a3fea4a812532e77ef3c414/output/AndroidManifest.xml:41:9-50:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/ferdicus/.android/build-cache/fe4a49a258fc93bc3a3fea4a812532e77ef3c414/output/AndroidManifest.xml:43:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/ferdicus/.android/build-cache/fe4a49a258fc93bc3a3fea4a812532e77ef3c414/output/AndroidManifest.xml:44:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/ferdicus/.android/build-cache/fe4a49a258fc93bc3a3fea4a812532e77ef3c414/output/AndroidManifest.xml:42:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/ferdicus/.android/build-cache/fe4a49a258fc93bc3a3fea4a812532e77ef3c414/output/AndroidManifest.xml:45:13-49:29
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/ferdicus/.android/build-cache/fe4a49a258fc93bc3a3fea4a812532e77ef3c414/output/AndroidManifest.xml:56:9-62:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/ferdicus/.android/build-cache/fe4a49a258fc93bc3a3fea4a812532e77ef3c414/output/AndroidManifest.xml:58:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/ferdicus/.android/build-cache/fe4a49a258fc93bc3a3fea4a812532e77ef3c414/output/AndroidManifest.xml:57:13-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.0] /Users/ferdicus/.android/build-cache/cc1c1b5b8221fe1eb4a88d151024b3d10f4b9062/output/AndroidManifest.xml:9:9-13:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.0] /Users/ferdicus/.android/build-cache/cc1c1b5b8221fe1eb4a88d151024b3d10f4b9062/output/AndroidManifest.xml:11:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.0] /Users/ferdicus/.android/build-cache/cc1c1b5b8221fe1eb4a88d151024b3d10f4b9062/output/AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.0] /Users/ferdicus/.android/build-cache/cc1c1b5b8221fe1eb4a88d151024b3d10f4b9062/output/AndroidManifest.xml:13:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.0] /Users/ferdicus/.android/build-cache/cc1c1b5b8221fe1eb4a88d151024b3d10f4b9062/output/AndroidManifest.xml:10:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/ferdicus/.android/build-cache/b22b8ffa2b921c97e645bc14851af9b32900fcc0/output/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/ferdicus/.android/build-cache/b22b8ffa2b921c97e645bc14851af9b32900fcc0/output/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/ferdicus/.android/build-cache/b22b8ffa2b921c97e645bc14851af9b32900fcc0/output/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/ferdicus/.android/build-cache/b22b8ffa2b921c97e645bc14851af9b32900fcc0/output/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/ferdicus/.android/build-cache/375915a1597a570b09da21e58801ed1f5f838894/output/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/ferdicus/.android/build-cache/375915a1597a570b09da21e58801ed1f5f838894/output/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/ferdicus/.android/build-cache/375915a1597a570b09da21e58801ed1f5f838894/output/AndroidManifest.xml:24:13-58
 meta-data#android.support.VERSION
 ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/ferdicus/.android/build-cache/39fcf96e83c549f70faa3f226d281b89d101a4eb/output/AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-v4:26.1.0] /Users/ferdicus/.android/build-cache/4a1746463e428cda5653d0f27e2dfb8238154331/output/AndroidManifest.xml:26:9-28:38

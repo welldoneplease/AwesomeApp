@@ -8,6 +8,10 @@
         "source": "/Users/ferdicus/.android/build-cache/39fcf96e83c549f70faa3f226d281b89d101a4eb/output/res/color/abc_tint_switch_track.xml"
     },
     {
+        "merged": "/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/ferdicus/.android/build-cache/b22b8ffa2b921c97e645bc14851af9b32900fcc0/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
         "merged": "/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
         "source": "/Users/ferdicus/.android/build-cache/39fcf96e83c549f70faa3f226d281b89d101a4eb/output/res/color/abc_search_url_text.xml"
     },
@@ -20,12 +24,20 @@
         "source": "/Users/ferdicus/.android/build-cache/39fcf96e83c549f70faa3f226d281b89d101a4eb/output/res/color/abc_tint_btn_checkable.xml"
     },
     {
+        "merged": "/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/ferdicus/.android/build-cache/b22b8ffa2b921c97e645bc14851af9b32900fcc0/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
         "merged": "/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
         "source": "/Users/ferdicus/.android/build-cache/39fcf96e83c549f70faa3f226d281b89d101a4eb/output/res/color/abc_btn_colored_text_material.xml"
     },
     {
         "merged": "/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
         "source": "/Users/ferdicus/.android/build-cache/39fcf96e83c549f70faa3f226d281b89d101a4eb/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/ferdicus/.android/build-cache/b22b8ffa2b921c97e645bc14851af9b32900fcc0/output/res/color/common_google_signin_btn_tint.xml"
     },
     {
         "merged": "/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",

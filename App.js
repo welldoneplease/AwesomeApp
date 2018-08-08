@@ -7,9 +7,22 @@
  */
 
 import React, {Component} from 'react';
-import {StyleSheet, Text, View} from 'react-native';
+import {StyleSheet, Text, Button, Alert, View} from 'react-native';
+
+// Import App Center Crashes at the top of the file.
+import Crashes, { ErrorAttachmentLog } from 'appcenter-crashes';
 
 const instructions = 'Double tap R on your keyboard to reload,\n Shake or press menu button for dev menu';
+
+Crashes.setListener({
+  getErrorAttachments(report) {
+    const textAttachment = ErrorAttachmentLog.attachmentWithText('Hello text attachment!', 'hello.txt');
+    return [textAttachment];
+  }
+
+  // Other callbacks must also be defined at the same time if used.
+  // Default values are used if a method with return parameter is not defined.
+});
 
 type Props = {};
 export default class App extends Component<Props> {
@@ -19,6 +32,10 @@ export default class App extends Component<Props> {
         <Text style={styles.welcome}>Welcome to React Native!</Text>
         <Text style={styles.instructions}>To get started, edit App.js</Text>
         <Text style={styles.instructions}>{instructions}</Text>
+        <Button
+          title="Press Me"
+          onPress={Crashes.generateTestCrash}
+        />
       </View>
     );
   }

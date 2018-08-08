@@ -20,12 +20,12 @@
         "source": "/Users/ferdicus/.android/build-cache/014028f495464f3583b51ca0a77d61433459c577/output/res/layout/redbox_item_title.xml"
     },
     {
-        "merged": "/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
-        "source": "/Users/ferdicus/.android/build-cache/39fcf96e83c549f70faa3f226d281b89d101a4eb/output/res/layout/abc_screen_simple.xml"
-    },
-    {
         "merged": "/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
         "source": "/Users/ferdicus/.android/build-cache/c5f5fcdc19c02906f466c1bc13c3e02447ecd900/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/ferdicus/.android/build-cache/39fcf96e83c549f70faa3f226d281b89d101a4eb/output/res/layout/abc_screen_simple.xml"
     },
     {
         "merged": "/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/res/merged/debug/layout/redbox_item_frame.xml",
@@ -60,12 +60,12 @@
         "source": "/Users/ferdicus/.android/build-cache/c5f5fcdc19c02906f466c1bc13c3e02447ecd900/output/res/layout/notification_template_part_chronometer.xml"
     },
     {
-        "merged": "/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
-        "source": "/Users/ferdicus/.android/build-cache/39fcf96e83c549f70faa3f226d281b89d101a4eb/output/res/layout/abc_search_view.xml"
-    },
-    {
         "merged": "/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
         "source": "/Users/ferdicus/.android/build-cache/39fcf96e83c549f70faa3f226d281b89d101a4eb/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/ferdicus/.android/build-cache/39fcf96e83c549f70faa3f226d281b89d101a4eb/output/res/layout/abc_search_view.xml"
     },
     {
         "merged": "/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
@@ -88,12 +88,12 @@
         "source": "/Users/ferdicus/.android/build-cache/39fcf96e83c549f70faa3f226d281b89d101a4eb/output/res/layout/abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
-        "source": "/Users/ferdicus/.android/build-cache/39fcf96e83c549f70faa3f226d281b89d101a4eb/output/res/layout/support_simple_spinner_dropdown_item.xml"
-    },
-    {
         "merged": "/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
         "source": "/Users/ferdicus/.android/build-cache/c5f5fcdc19c02906f466c1bc13c3e02447ecd900/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/ferdicus/.android/build-cache/39fcf96e83c549f70faa3f226d281b89d101a4eb/output/res/layout/support_simple_spinner_dropdown_item.xml"
     },
     {
         "merged": "/Users/ferdicus/Development/appcenter/AwesomeProject/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_custom.xml",
